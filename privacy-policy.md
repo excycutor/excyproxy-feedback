@@ -10,7 +10,4 @@ Network requests are processed solely to apply user-defined proxy settings and r
 
 ExcyProxy Switcher does not sell, share, or transfer user data to third parties.
 
-If you have any questions regarding this policy, you may contact the developer at:
-[your contact email]
-
 Last updated: 2026-01-01
